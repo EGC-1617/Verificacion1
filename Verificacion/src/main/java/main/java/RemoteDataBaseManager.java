@@ -15,9 +15,9 @@ public class RemoteDataBaseManager {
 	 * @return conn. Conector de conexión con la base de datos.
 	 */
 	private static Connection getDatabaseConnection(){
-		String USER = "jeparcac_egc";
-	    String PASS = "kqPTE8dLz3GVtks";  
-	    String DB_URL = "jdbc:mysql://egc.jeparca.com:3306/jeparcac_egc";
+		String USER = "sql7148220";
+	    String PASS = "F7NDgNATA1";  
+	    String DB_URL = "jdbc:mysql://sql7.freesqldatabase.com:3306/sql7148220";
 	    
 	    Connection conn = null;
 	    
